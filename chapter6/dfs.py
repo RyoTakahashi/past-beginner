@@ -31,8 +31,3 @@ def dfs(i, j):
 dfs(sx, sy)
 print('No')
     
-
-
-
-
-
